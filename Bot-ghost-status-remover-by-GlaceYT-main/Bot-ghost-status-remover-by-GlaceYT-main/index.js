@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing Nexus RBLX","Watching Nexus RBLX"];
+const statusMessages = ["Holiday Inn | Roblox","Holiday Inn | Roblox"];
 
 
 let currentIndex = 0;
